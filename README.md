@@ -1,16 +1,34 @@
-### Hi there 👋
+😁 Eu sou um Desenvolvedor e amo Programar ❤😆
 
-<!--
-**jefferson-litiuk/jefferson-litiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 Super curioso quando se trata de aprender coisas novas, principalmente sobre tecnologia. 
 
-Here are some ideas to get you started:
+## Ferramentas que eu utilizo no meu dia dia:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Visual Studio
+- JavaScript
+- Nodejs
+- Git
+- Powerpoint
+
+---
+## Tecnologias que eu tive contato:
+
+```
+JavaScript
+PHP
+Node.js
+TypeScript
+HTML5
+BootStrap
+SASS
+GIT
+Python
+C#
+Markdown
+MongoDb
+PostgreSQL
+MySQL
+```
+
+
+⭐️ From Jefferson-litiuk
