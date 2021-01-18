@@ -18,7 +18,6 @@
 ## Languages and Technologies I use daily
 
 <code><img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></code>
-<code><img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
 <code><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/></code>
@@ -40,7 +39,6 @@
 <code><img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></code>
 <code><img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/SASS%20-hotpink.svg?&style=for-the-badge&logo=SASS&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/></code>
 
 
@@ -64,7 +62,6 @@
 <code><img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/></code>
 <code><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/YagoGodoyGarcia"/></code>
 <code><img src="https://img.shields.io/badge/-MySQL-a0c4db?style=flat-square&logo=mysql"/></code>
-<code><img src="https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite"/></code>
 
 **Operational System**
 [![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=Linux&link=https://github.com/YagoGodoyGarcia/)]()
@@ -79,8 +76,8 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)]()
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=flat-square&logo=bitbucket)]()
 [![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord)]()
-[![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira)]()
-[![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=Slack)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson-litiuk&layout=compact)](https://github.com/jefferson-litiuk/github-readme-stats)
 
 
 ---
